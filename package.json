@@ -1,11 +1,18 @@
 {
   "name": "leaf-ciap",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://leocanela.github.io/leafCiap/",
   "dependencies": {
+    "@material-ui/core": "^3.6.1",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/styles": "^3.0.0-alpha.2",
+    "gh-pages": "^2.0.1",
+    "normalize-text": "^0.4.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-virtualized": "^9.21.0"
   },
   "scripts": {
     "start": "react-scripts start",
